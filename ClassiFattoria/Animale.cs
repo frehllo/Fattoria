@@ -10,7 +10,7 @@ namespace ClassiFattoria
 
         string I_Salutatore.Saluta()
         {
-            Console.WriteLine("CIAO!");
+            Console.WriteLine("CIAO!!!");
         }
     }
 }
